@@ -78,7 +78,7 @@ INSERT INTO players VALUES
 INSERT INTO matches VALUES
 (1,1,2,'2026-05-10-19:00','Etihad Stadium','Finished'),
 (2,3,4,'2026-05-12-18:30','Hang Day Stadium','Finished'),
-(3,5,1,'2026-05-15-20:00','Thien Truong Staplayer_statisticsdium','Scheduled'),
+(3,5,1,'2026-05-15-20:00','Thien Truong Stadium','Scheduled'),
 (4,2,3,'2026-05-20-21:00','Santiago Bernabeu','Scheduled'),
 (5,4,5,'2026-05-25-17:00','Thong Nhat Stadium','Scheduled');
 
